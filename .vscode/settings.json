@@ -1,0 +1,8 @@
+{
+    "omnisharp.enableImportCompletion": true,
+    "omnisharp.enableMsBuildLoadProjectsOnDemand": true,
+    "omnisharp.enableRoslynAnalyzers": true,
+    "omnisharp.disableMSBuildDiagnosticWarning": true,
+    "omnisharp.enableAsyncCompletion": true,
+    "omnisharp.sdkVersion": "5.0.408"
+}
